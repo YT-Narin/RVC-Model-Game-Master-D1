@@ -1,8 +1,5 @@
 # RVC Model Game Master from Deceit 1
 
-## Status
-![one](https://img.shields.io/github/v/tag/YT-Narin/RVC-Model-Game-Master-Deceit-1)
-
 ## About
 **RVC model** of the **Game Master** from the game **Deceit 1**.  
 Created by user **Narin**.  
