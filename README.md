@@ -8,3 +8,6 @@ Coming soon...
 Created by user **Narin**.  
 If you have any questions, please contact me on Discord: `@narin4ik`.  
 **Version:** `None`  
+
+## License
+This repository using [MIT License](https://github.com/YT-Narin/RVC-Model-Game-Master-Deceit-1/blob/main/LICENSE).
