@@ -1,6 +1,7 @@
 # RVC Model Game Master from Deceit 1
 
 ## Status
+Coming soon...
 
 ## About
 **RVC model** of the **Game Master** from the game **Deceit 1**.  
