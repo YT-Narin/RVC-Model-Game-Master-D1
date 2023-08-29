@@ -4,8 +4,9 @@
 **RVC model** of the **Game Master** from the game **Deceit 1**.  
 Created by user **Narin**.  
 If you have any questions, please contact me on Discord: `@narin4ik`.  
+
 **Support:** `RVC v2`  
-**Version:** `None`  
+**Version:** [v.0.1.0-alpha](https://github.com/YT-Narin/RVC-Model-Game-Master-Deceit-1/releases/tag/v0.1.0-alpha)
 
 ## Todo
 1) Solve the problem with Google Colab  
