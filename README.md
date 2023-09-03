@@ -8,10 +8,10 @@ Created by user **Narin**.
 If you have any questions, please contact me on Discord: `@narin4ik`.  
 
 **Support:** `RVC v2`  
-**Last version:** [build-v.0.1.0-alphatest](https://github.com/YT-Narin/RVC-Model-Game-Master-Deceit-1/releases/tag/build-v.0.1.0-alphatest)
+**Last version:** [build-v.1.0.0](https://github.com/YT-Narin/RVC-Model-Game-Master-Deceit-1/releases/tag/build-v.1.0.0)
 
 ## Todo
-- [ ] Release a model that uses 500 Epochs
+- [X] Release a model that uses 500 Epochs
 - [ ] Get discord role "Model Maker" on AI Hub
 - [ ] Make a Wiki on a GitHub repository
 - [ ] Release a model that uses 750 Epochs
