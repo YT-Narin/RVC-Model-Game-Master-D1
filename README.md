@@ -7,13 +7,15 @@
 Created by user **Narin**.  
 If you have any questions, please contact me on Discord: `@narin4ik`.  
 
+**Wiki:** [How to use the voice model for ai cover?](https://github.com/YT-Narin/RVC-Model-Game-Master-D1/wiki/How-to-use-the-voice-model-for-ai-cover%3F)  
+
 **Support:** `RVC v2`  
 **Last version:** [build-v.1.0.0](https://github.com/YT-Narin/RVC-Model-Game-Master-Deceit-1/releases/tag/build-v.1.0.0)
 
 ## Todo
 - [X] Release a model that uses 500 Epochs
 - [X] Get discord role "Model Maker" on AI Hub
-- [ ] Make a Wiki on a GitHub repository
+- [X] Make a Wiki on a GitHub repository
 - [ ] Release a model that uses ~~750~~ 1000 Epochs
 
 ## License
