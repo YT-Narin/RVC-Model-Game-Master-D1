@@ -12,7 +12,7 @@ If you have any questions, please contact me on Discord: `@narin4ik`.
 
 ## Todo
 - [X] Release a model that uses 500 Epochs
-- [ ] Get discord role "Model Maker" on AI Hub
+- [X] Get discord role "Model Maker" on AI Hub
 - [ ] Make a Wiki on a GitHub repository
 - [ ] Release a model that uses 750 Epochs
 
