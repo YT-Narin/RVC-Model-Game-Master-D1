@@ -11,10 +11,9 @@ If you have any questions, please contact me on Discord: `@narin4ik`.
 **Last version:** [build-v.0.1.0-alphatest](https://github.com/YT-Narin/RVC-Model-Game-Master-Deceit-1/releases/tag/build-v.0.1.0-alphatest)
 
 ## Todo
-1) Solve the problem with Google Colab  
-2) Release a model that uses 300 Epochs
-3) Make a Wiki on a GitHub repository
-4) Release a model that uses 500 Epochs
+1) Release a model that uses 500 Epochs
+2) Make a Wiki on a GitHub repository
+3) Release a model that uses 750 Epochs
 
 ## License
 This repository using [MIT License](https://github.com/YT-Narin/RVC-Model-Game-Master-Deceit-1/blob/main/LICENSE).
