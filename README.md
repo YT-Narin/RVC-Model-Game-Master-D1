@@ -14,7 +14,7 @@ If you have any questions, please contact me on Discord: `@narin4ik`.
 - [X] Release a model that uses 500 Epochs
 - [X] Get discord role "Model Maker" on AI Hub
 - [ ] Make a Wiki on a GitHub repository
-- [ ] Release a model that uses 750 Epochs
+- [ ] Release a model that uses ~~750~~ 1000 Epochs
 
 ## License
 This repository using [MIT License](https://github.com/YT-Narin/RVC-Model-Game-Master-Deceit-1/blob/main/LICENSE).
