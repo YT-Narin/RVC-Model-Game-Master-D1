@@ -1,4 +1,4 @@
-![image](https://cdn.discordapp.com/attachments/639792159469469698/1148269837504757894/RVCPosterGMmall.png)
+![poster](https://media.discordapp.net/attachments/639792159469469698/1148270275205529680/RVCPosterGMmall.png)
 
 ## About
 **RVC model** of the **Game Master** from the game **Deceit 1**.  
