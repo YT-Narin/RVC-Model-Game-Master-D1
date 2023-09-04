@@ -1,6 +1,4 @@
-# RVC Model Game Master from Deceit 1
-
-![Poster](https://cdn.discordapp.com/attachments/639792159469469698/1146147519802384474/rvcgmposter.png)
+![image](https://cdn.discordapp.com/attachments/639792159469469698/1148269837504757894/RVCPosterGMmall.png)
 
 ## About
 **RVC model** of the **Game Master** from the game **Deceit 1**.  
